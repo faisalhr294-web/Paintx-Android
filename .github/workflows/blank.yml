@@ -30,4 +30,3 @@ jobs:
         with:
           name: PaintX-APK
           path: app/build/outputs/apk/debug/*.apk
-
